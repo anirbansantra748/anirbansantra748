@@ -16,18 +16,6 @@ I am a passionate software developer with a strong foundation in Computer Scienc
   - Percentage: 75.5%
   - Year of Graduation: 2022
 
-### Experience
-- 👨‍💻 Android Developer at San Soft-Tech
-  - March 2023 - April 2023
-  - Collaborated with a cross-functional team to develop a demo QR scanner app for Android using Java, XML, and Android Studio.
-
-### Academic Projects
-- 📚 Book Reader Web App
-  - Developed a user-friendly web application for reading a wide variety of books.
-  - Built with HTML, CSS, JavaScript, and Node.js, it allows users to explore, view, and download books.
-  - This project enhances accessibility to literature and improves the reading experience.
-  - [GitHub Repository](https://github.com/anirbansantra748/bookify)
-
 ### Achievements and Hobbies
 - 💡 Competitive Programming
   - [LeetCode Profile](https://leetcode.com/Anirbansantra/)
