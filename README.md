@@ -1,32 +1,11 @@
-## 👋 Hi, I’m Anirban Santra
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anirbansantra748.anirbansantra748" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Anirban+Santra!;" /> </h1> <h3 align="center">A passionate software developer from India 🇮🇳</h3> <br/> <div align="center">
+🔭 I’m currently working on Real Estate Listings Management Platform
 
-### Contact
-- 📧 Email: anirbansantra748@gmail.com
-- 📞 Phone: (+91) 7980015159
+🌱 I’m currently learning Android Development, Docker, Supabase
 
-### About Me
-I am a passionate software developer with a strong foundation in Computer Science. My skills range from programming in Java, C, and Python to web development with HTML, CSS, JavaScript, and frameworks like Express, React, and Node. I also have experience in working with databases like SQL and MongoDB, version control using Git and GitHub, and front-end development with Bootstrap. Additionally, I am enthusiastic about Android development and constantly learning to enhance my skills in this field.
+💬 Ask me about Java, Python, Android Development, Full-Stack Projects
 
-### Education
-- 🎓 B-tech in Computer Science from Hooghly Engineering & Technology College
-  - CGPA: 7.5
-  - Year of Graduation: 2023
+⚡ Fun fact Astronomy is one of my biggest passions! 🌌
 
-- 🎓 XII (WBSC) from Digra Mallick Hati Deshbondhu Vidyapeeth
-  - Percentage: 75.5%
-  - Year of Graduation: 2022
-
-### Achievements and Hobbies
-- 💡 Competitive Programming
-  - [LeetCode Profile](https://leetcode.com/Anirbansantra/)
-- 🏆 Winner of a Hackathon
-  - [Devpost Project](https://devpost.com/software/inclusivehorizon-web-app)
-- 🤖 AI Proficiency
-  - Familiar with ChatGPT and AI Image Generation
-- 🔍 AI Tool Discovery
-  - Proficient in identifying and exploring new AI tools and technologies.
-- 🌌 Astronomy Enthusiast
-  - Passionate about astronomy and space exploration.
-
-### Let's Connect!
-Feel free to reach out if you have any questions or want to collaborate on exciting projects. I'm always open to new opportunities and connections.
+</div> <div align="center"> <a href="mailto:anirbansantra748@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://linkedin.com/in/anirban-santra" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> <a href="https://github.com/anirbansantra748" target="_blank"> <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> </a> </div> <hr/> <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mongodb,react,nodejs,express,bootstrap,git,github,android,mysql,vscode" /><br> </div> <br/> <hr/> <div align="center"> <h2>🚀 My Projects 🚀</h2> <br> <h4>🔹 <a href="https://github.com/anirbansantra748/real-estate-management">Real Estate Listings Management Platform</a></h4> <p>Tech Stack: HTML, CSS, Node.js, Express, MongoDB</p> <p>Robust platform for property management with features like sign-in, listing creation, map views, reviews, and more.</p> <h4>🔹 <a href="https://github.com/anirbansantra748/bookview-webapp">BOOKVIEW Web App</a></h4> <p>Tech Stack: HTML, CSS, Node.js, Express, MongoDB</p> <p>Platform allowing users to upload books, edit details, and manage authentication.</p> </div> <br/> <hr/> <div align="center"> <h2>📊 Stats 📊</h2> <br> <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=anirbansantra748&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anirbansantra748&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anirbansantra748&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
+<br/><br/>
