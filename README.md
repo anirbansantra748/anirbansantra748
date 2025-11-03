@@ -12,28 +12,28 @@
 ---
 
 ## 🪶 About Me
-Backend-focused **Full-Stack Developer** building **scalable systems**, **microservices**, and **AI-integrated platforms**.  
-I design architectures that survive chaos and write code that grows quietly better with each commit.  
+Backend-focused **Full-Stack Developer** passionate about designing **scalable architectures**, **AI integrations**, and **real-time systems** that don’t just work — they evolve.  
+I like building things that are **fast, fault-tolerant, and elegantly simple**.  
 
-- 🔭 Currently: Working on **AI-driven backend systems** & **real-time architectures**  
-- ⚙️ Tech Passion: **System Design**, **Caching**, **Distributed Services**  
-- 📚 Reading: **Bengali literature**, and debugging with a bit of **Tagore’s patience**
+- 🔭 Currently: Building **AI-driven backends & event-driven platforms**  
+- ⚙️ Interests: **System Design**, **Microservices**, **Caching**, **Observability**  
+- 📚 Reading: **Bengali literature**, and refactoring like a minimalist artist  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 [Peer – AI Code Review Platform](https://github.com/anirbansantra748/peer)
-AI-driven PR review system with event-driven microservices and multi-LLM fallbacks (GPT-4, Gemini).  
-Built queues with **BullMQ**, **Redis caching**, and **idempotent Razorpay webhooks** for fault tolerance.  
+AI-powered PR review pipeline using **multi-LLM fallbacks** (GPT-4, Gemini)  
+with **BullMQ**, **Redis caching**, and **idempotent Razorpay webhooks** (99.2% success).  
 `Node.js · Express · MongoDB · Redis · Docker · BullMQ · Razorpay · GitHub App API`
 
 ### 💼 [Recruitment Platform](https://github.com/anirbansantra748/InterViewXX.git)
-End-to-end SaaS for recruiters – AI-assisted ATS, real-time interviews, and candidate management.  
+End-to-end hiring SaaS — AI-assisted ATS, live interviews, real-time collaboration.  
 `Node.js · Express · MongoDB · EJS · Tailwind · Socket.IO`
 
 ### 🩺 [AI Healthcare (Hailthyfy)](https://github.com/anirbansantra748/hailthyfy)
-Healthcare system integrating **AI triage**, doctor consultations & containerized X-ray model inference.  
+Healthcare system with **AI triage**, doctor consultations, and **containerized X-ray inference**.  
 `Node.js · Express · MongoDB · Redis · TensorFlow · FastAPI · Docker`
 
 ---
@@ -55,9 +55,9 @@ Healthcare system integrating **AI triage**, doctor consultations & containerize
 
 ---
 
-## 🧩 Contribution Graph Snake
+## 🐍 Contribution Graph Snake
 <div align="center">
-  <img src="https://github.com/anirbansantra748/anirbansantra748/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/anirbansantra748/anirbansantra748/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
