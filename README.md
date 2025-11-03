@@ -1,74 +1,94 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anirbansantra748.anirbansantra748" />  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anirbansantra748.anirbansantra748" />
 
-<h1 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Anirban!;" />  
-</h1>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Anirban!;" />
+</h1>
 
-<h3 align="center">Software Engineer | Tech Enthusiast | Explorer of the Cosmos 🌠</h3>  
+<h3 align="center">Backend & AI Developer | System Designer | Night Owl Coder ♟️</h3>
 
----
-
-### 🌟 **About Me**
-🚀 **Full-Stack Developer** driven by the thrill of solving real-world problems through **scalable platforms** and seamless **user experiences**.  
-⚡ I'm regularly engaged in **competitive programming on LeetCode**, sharpening my problem-solving skills.  
-🌌 I'm an **astronomy enthusiast** fascinated by the wonders of **space and science**.  
-📚 I'm a **lifelong learner**, eager to explore new technologies and concepts every day.  
+<p align="center"><i>"I'm not chasing checkmate — just better moves, in code and in life."</i></p>
 
 ---
 
-### ⚡ **What I'm Currently Up To**
-- 🔥 **Building:** [SkillIssu](https://github.com/anirbansantra748/skillissu) → A **coding platform** for DSA problems, contests, and courses.  
-- 💡 **Learning:** AI-powered solutions and **performance optimization** techniques.  
-- 🌱 **Exploring:** Astronomy 🌌.  
+### 🌌 **About Me**
+I’m a **backend-focused full-stack developer** who loves crafting systems that scale, break, and rebuild stronger.  
+Currently exploring the intersection of **AI and system design**, blending logic, performance, and a bit of chaos.  
+
+💻 I work mostly with **Node.js**, **Express**, **MongoDB**, and **Redis**, building **event-driven architectures** and **microservice systems**.  
+🧠 Curious by nature — I spend as much time reading about **philosophy, Bengali literature**, and **physics** as I do debugging code.  
+🌙 I believe great engineering isn’t about perfection — it’s about rhythm, flow, and the courage to refactor both code and self.
 
 ---
 
-### 🚀 **Projects I'm Proud Of**
-<div align="center">  
-
-### 🔹 [**SkillIssu**](https://github.com/anirbansantra748/skillissu)  
-**Full-fledged coding platform** with contests, leaderboard tracking, and CRUD features.  
-Built with **Node.js, Express.js, MongoDB, React**, and AI for intelligent solutions.  
-**LeetCode-style problem-solving** with user comments, likes, and real-time interaction.  
-
-### 🔹 [**Re-Pharma**](https://github.com/anirbansantra748/re-pharma)  
-**AI-powered healthcare platform** with doctor consultations and real-time communication.  
-Features **AI health assistant**, chat & video calls, and an anonymous blog.  
-
-### 🔹 [**NightSky**](https://github.com/anirbansantra748/nightsky)  
-**Celestial platform** with NASA API integration for stargazing events.  
-Event creation, geolocation, and Stellarium API for **star map navigation**.  
-
-</div>  
+### ⚡ **What I'm Up To**
+- 🚀 **Building:** [Peer](https://github.com/anirbansantra748/peer) → AI-powered code review platform with multi-LLM orchestration & event-driven pipelines.  
+- 💡 **Designing:** System blueprints for scalable products & real-time backends.  
+- 🌱 **Learning:** Deep observability, distributed caching, and self-discipline.
 
 ---
 
-### ⚒️ **Tech Stack & Tools**
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,typescript,mongodb,react,nodejs,express,bootstrap,tailwind,git,github,androidstudio,postman,p5js,threejs,Sql" /><br>  
-</div>  
+### 🧩 **Highlighted Projects**
+
+#### 🧠 [Peer — AI Code Review Platform](https://github.com/anirbansantra748/peer)
+Built an **event-driven microservice pipeline** processing 1k+ PRs/day with **multi-LLM fallbacks** (GPT-4, Gemini).  
+Integrated **BullMQ queues**, **Redis caching**, and **idempotent Razorpay webhooks** (99.2% success).  
+🧩 *Stack:* Node.js · Express · MongoDB · Redis · Docker · BullMQ · Razorpay · GitHub App API  
 
 ---
 
-### 📊 **Stats**
-<div align="center">  
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=anirbansantra748&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anirbansantra748&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=issues" alt="readme stats" />  
-  <br/>  
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anirbansantra748&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
-</div>  
+#### 💼 [All-in-One Recruitment Platform](https://github.com/anirbansantra748/InterViewXX.git)
+A complete hiring SaaS — recruiter dashboards, live interviews, LeetCode-style rounds, and AI-assisted ATS.  
+Real-time sync with **Socket.IO** and modular backend design for seamless scalability.  
+🧩 *Stack:* Node.js · Express · MongoDB · EJS · Tailwind · Socket.IO  
+
+---
+
+#### 🩺 [AI Healthcare Platform (Hailthyfy)](https://github.com/anirbansantra748/hailthyfy)
+End-to-end healthcare platform for **doctor consults**, **appointment scheduling**, and **AI triage**.  
+Containerized **X-ray inference pipeline** served via **FastAPI** & **TensorFlow** for async model processing.  
+🧩 *Stack:* Node.js · Express · MongoDB · Redis · TensorFlow · FastAPI · Docker  
+
+---
+
+### ⚒️ **Tech Stack**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,html,css,nodejs,express,mongodb,redis,react,nextjs,tailwind,mysql,docker,postman,git,github" />
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=anirbansantra748&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anirbansantra748&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=issues" alt="readme stats" />
+  <br/><br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anirbansantra748&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+---
+
+### 🧠 **Philosophy**
+> “Code, like literature, isn’t written — it’s rewritten.”  
+>  
+> I build not just to make things work, but to understand *why* they should.
 
 ---
 
 ### 📫 **Connect With Me**
-<div align="center">  
-  <a href="mailto:anirbansantra748@gmail.com">  
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
-  </a>  
-  <a href="https://linkedin.com/in/anirban-santra" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />  
-  </a>  
-  <a href="https://github.com/anirbansantra748" target="_blank">  
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />  
-  </a>  
-</div>  
+<div align="center">
+  <a href="mailto:anirbansantra748@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/anirban-santra-333074239" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/anirbansantra748" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ “Not chasing perfection — just progress.”</sub>
+</div>
