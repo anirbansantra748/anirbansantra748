@@ -1,4 +1,4 @@
-<!-- ✦ ANIRBAN SANTRA | COSMIC-DARK PROFILE ✦ -->
+<!-- ✦ ANIRBAN SANTRA | COSMIC DARK PROFILE ✦ -->
 
 <div align="center">
 
@@ -12,52 +12,35 @@
 ---
 
 ## 🪶 About Me
-Backend-focused **Full-Stack Developer** experienced in building **scalable microservice systems**, **real-time platforms**, and **production AI integrations**.  
-I love designing architecture that behaves predictably under chaos and refactoring code until it feels right.
+Backend-focused **Full-Stack Developer** building **scalable systems**, **microservices**, and **AI-integrated platforms**.  
+I design architectures that survive chaos and write code that grows quietly better with each commit.  
 
-- 🔭 Building  AI-driven backends & event-driven pipelines  
-- 🧠 Learning  distributed systems & observability  
-- 📚 Reading  Sarat Chandra while debugging Node.js  
+- 🔭 Currently: Working on **AI-driven backend systems** & **real-time architectures**  
+- ⚙️ Tech Passion: **System Design**, **Caching**, **Distributed Services**  
+- 📚 Reading: **Bengali literature**, and debugging with a bit of **Tagore’s patience**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 [Peer – AI Code Review Platform](https://github.com/anirbansantra748/peer)
-Event-driven microservice pipeline processing 1k+ PRs/day with **multi-LLM fallbacks** (GPT-4, Gemini).  
-Includes **BullMQ queues**, **Redis caching**, and **idempotent Razorpay webhooks** (99.2 % success).  
+AI-driven PR review system with event-driven microservices and multi-LLM fallbacks (GPT-4, Gemini).  
+Built queues with **BullMQ**, **Redis caching**, and **idempotent Razorpay webhooks** for fault tolerance.  
 `Node.js · Express · MongoDB · Redis · Docker · BullMQ · Razorpay · GitHub App API`
 
-### 💼 [All-in-One Recruitment Platform](https://github.com/anirbansantra748/InterViewXX.git)
-End-to-end SaaS for hiring – AI-assisted ATS, live interviews, and LeetCode-style coding rounds.  
+### 💼 [Recruitment Platform](https://github.com/anirbansantra748/InterViewXX.git)
+End-to-end SaaS for recruiters – AI-assisted ATS, real-time interviews, and candidate management.  
 `Node.js · Express · MongoDB · EJS · Tailwind · Socket.IO`
 
 ### 🩺 [AI Healthcare (Hailthyfy)](https://github.com/anirbansantra748/hailthyfy)
-Healthcare platform with **AI triage chatbot**, doctor consults, and containerized inference pipeline.  
+Healthcare system integrating **AI triage**, doctor consultations & containerized X-ray model inference.  
 `Node.js · Express · MongoDB · Redis · TensorFlow · FastAPI · Docker`
 
 ---
 
 ## ⚒️ Tech Stack
-
-### 🧩 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp" />
-</div>
-
-### 🧱 Backend & Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,postgresql,kafka,docker" />
-</div>
-
-### 🪄 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ejs" />
-</div>
-
-### ⚙️ DevOps / Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp,nodejs,express,react,nextjs,mongodb,redis,mysql,postgresql,kafka,docker,tailwind,git,github,postman,vscode,vercel,render,netlify" />
 </div>
 
 ---
@@ -74,7 +57,7 @@ Healthcare platform with **AI triage chatbot**, doctor consults, and containeriz
 
 ## 🧩 Contribution Graph Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anirbansantra748/anirbansantra748/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/anirbansantra748/anirbansantra748/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
