@@ -8,7 +8,7 @@
 
 <h3>Backend Developer · Full-Stack Engineer · System Designer</h3>
 
-<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=anirbansantra748.anirbansantra748" alt="visitors"/> -->
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=anirbansantra748.anirbansantra748" alt="visitors"/> 
 
 </div>
 
