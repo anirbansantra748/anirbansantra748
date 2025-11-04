@@ -82,21 +82,19 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center" style="display:flex;justify-content:center;align-items:center;gap:15px;flex-wrap:wrap;">
+<div align="center" style="display:flex;justify-content:center;align-items:center;gap:15px;flex-wrap:nowrap;">
 
-  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=anirbansantra748&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37&border_color=2f2f2f&border_radius=15" 
     alt="GitHub Stats"
     width="420" height="220"
-    style="border-radius:15px;transition:0.3s ease;box-shadow:0 0 20px rgba(212,175,55,0.15);" />
+    style="border-radius:15px;transition:0.3s ease;box-shadow:0 0 20px rgba(212,175,55,0.15);object-fit:cover;" />
 
-  <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansantra748&layout=compact&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=E5E5E5&border_color=2f2f2f&border_radius=15&langs_count=8" 
     alt="Most Used Languages"
     width="420" height="220"
-    style="border-radius:15px;transition:0.3s ease;box-shadow:0 0 20px rgba(212,175,55,0.15);" />
+    style="border-radius:15px;transition:0.3s ease;box-shadow:0 0 20px rgba(212,175,55,0.15);object-fit:cover;" />
 
 </div>
 
@@ -106,15 +104,11 @@
 
 <div align="center">
 
-## ⚫ Connect With Me  
+## 🐍 Contribution Snake  
 
-<a href="mailto:anirbansantra748@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/anirban-santra-333074239"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/anirbansantra748"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"></a>
+![snake gif](https://github.com/anirbansantra748/anirbansantra748/blob/output/github-contribution-grid-snake-dark.svg)
 
-<br/><br/>
-<sub style="color:#999;">“Not chasing perfection — just better moves.”</sub>  
-<p>♟︎ ♞ ♜ ♛ ♚ ♛ ♜ ♞ ♟︎</p>
+<sub style="color:#999;">Generated automatically by a GitHub Actions workflow every 12 hours.</sub>
 
 </div>
 
@@ -134,5 +128,21 @@
 
 <br/>
 <sub style="color:#999;">“Still learning which pieces are worth losing.”</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚫ Connect With Me  
+
+<a href="mailto:anirbansantra748@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/anirban-santra-333074239"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/anirbansantra748"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<br/><br/>
+<sub style="color:#999;">“Not chasing perfection — just better moves.”</sub>  
+<p>♟︎ ♞ ♜ ♛ ♚ ♛ ♜ ♞ ♟︎</p>
 
 </div>
